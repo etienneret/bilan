@@ -1,0 +1,44 @@
+body {
+  margin: 0px;
+  background: rgb(240, 240, 240);
+  color: rgb(20, 20, 20);
+  font-family: 'Krub', sans-serif;;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+h1 {
+	font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+  color: #6A71E1;
+}
+a {
+  color: #6A71E1;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
+
+ul{
+	list-style: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+.img-features {
+	width : 200px ;
+	height: auto;
+}
